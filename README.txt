@@ -104,4 +104,8 @@ The app uses a unified dark–gold design system, smooth animations, and role-ba
 	- `google_fonts`, `animate_do`, `flutter_animate`
 	- `image_picker`, `http`, `shared_preferences`
 
+
 ---
+
+**Developed by Khizar Lodhi using Flutter**
+*Last updated: January 6, 2026*
